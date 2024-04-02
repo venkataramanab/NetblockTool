@@ -1,0 +1,30 @@
+name: Update CIDRs
+
+on:
+  push:
+    branches: [ "master" ]
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build docker
+        run: docker-compose build app
+      - name: Update CIDRs
+        run: docker-compose run --rm app
+      - name: Push updates
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.email "action@github.com";
+            git config --global user.name "Update Bot";
+            git add data;
+            git commit -m "Updated CIDRs on $(date -Iminutes)";
+            git push;
+          else
+            echo "no changes";
+          fi
