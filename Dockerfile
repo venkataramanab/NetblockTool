@@ -4,4 +4,4 @@ WORKDIR /app
 copy . .
 RUN pip3 install -r requirements.txt
 
-RUN python3 NetblockTool.py -v Google -s -o data/datacenters
+RUN python3 NetblockTool.py -v Google -o data/datacenters
