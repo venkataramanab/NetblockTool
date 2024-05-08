@@ -96,7 +96,6 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 2001:1890:1c4c:8400::/56,GOOGLE INC.,C07882274,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07882274
 2001:1890:1c4c:8500::/56,GOOGLE INC.,C07882244,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07882244
 2001:1890:1c4c:8600::/56,GOOGLE INC.,C07882298,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07882298
-2001:1890:1c4c:8a00::/56,GOOGLE INC.,C07882299,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07882299
 2001:1890:1c4c:8b00::/56,GOOGLE INC.,C07882280,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07882280
 2001:1890:1c4c:8d00::/56,GOOGLE INC.,C07882282,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07882282
 2001:1890:1c4c:8f00::/56,GOOGLE INC.,C07882205,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07882205
@@ -163,6 +162,7 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 67.48.56.0/29,GOOGLE,C07146053,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07146053
 68.112.55.16/29,Google,C06014800,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C06014800
 69.167.75.4/30,Google LLC,C10690869,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C10690869
+69.31.27.200/30,Google,C10835940,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C10835940
 69.75.12.32/28,GOOGLE INC,C07146063,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07146063
 69.75.15.80/28,GOOGLE INC,C07146054,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07146054
 70.90.219.48/29,Google,C01791073,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C01791073
@@ -642,10 +642,10 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 209.36.188.0/32,GOOGLE-I16-188-0,NET-209-36-188-0-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-209-36-188-0-1
 209.36.188.1/32,GOOGLE-I18-188-1,NET-209-36-188-1-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-209-36-188-1-1
 2605:a600::/31,GOOGLE-FIBER,NET6-2605-A600-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET6-2605-A600-1
-2607:f8b0::/32,GOOGLE-IPV6,NET6-2607-F8B0-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET6-2607-F8B0-1
 34.101.0.0/16,GOOGLE-CLOUD,NET-34-101-0-0-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-34-101-0-0-1
 50.216.254.208/29,GOOGLE-HOME-OFFICE,NET-50-216-254-208-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-50-216-254-208-1
 50.216.254.216/29,GOOGLE-HOME-OFFICE,NET-50-216-254-216-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-50-216-254-216-1
+69.31.27.200/30,GOOGLE-GTT,NET-69-31-27-200-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-69-31-27-200-1
 173.164.246.144/29,GOOGLEJOHNNEIL,NET-173-164-246-144-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-173-164-246-144-1
 173.164.93.160/28,GOOGLEPORTLAND,NET-173-164-93-160-1,network,0,Duplicate network,http://whois.arin.net/rest/net/NET-173-164-93-160-1
 104.133.128.0/23,Google LLC,AS396982,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS396982
@@ -1200,6 +1200,7 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 34.0.224.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.225.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.226.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
+34.0.233.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.234.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.240.0/20,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.32.0/20,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
@@ -1277,7 +1278,6 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 35.217.0.0/18,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.217.128.0/17,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.217.64.0/18,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
-35.219.0.0/17,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.219.0.0/17,Google Asia Pacific Pte. Ltd. (GAPPL),C07374231,customer,0,Duplicate network,http://whois.arin.net/rest/customer/C07374231
 136.32.0.0/20,Google Fiber Inc.,AS16591,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS16591
 136.32.112.0/20,Google Fiber Inc.,AS16591,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS16591
