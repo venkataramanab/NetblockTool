@@ -335,6 +335,7 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 2a00:79e0:50b::/48,Google LLC,AS395973,asn,85,"ASN, company name is name parameter",http://whois.arin.net/rest/asn/AS395973
 2a00:79e1::/32,Google LLC,AS36384,asn,85,"ASN, company name is name parameter",http://whois.arin.net/rest/asn/AS36384
 2a01:280:200::/40,Google LLC,AS396982,asn,85,"ASN, company name is name parameter",http://whois.arin.net/rest/asn/AS396982
+2a0e:b107:7f7::/48,Google LLC,AS396982,asn,85,"ASN, company name is name parameter",http://whois.arin.net/rest/asn/AS396982
 2a14:2a00::/40,Google LLC,AS396982,asn,85,"ASN, company name is name parameter",http://whois.arin.net/rest/asn/AS396982
 34.0.0.0/15,Google LLC,AS19527,asn,85,"ASN, company name is name parameter",http://whois.arin.net/rest/asn/AS19527
 34.112.0.0/14,Google LLC,AS19527,asn,85,"ASN, company name is name parameter",http://whois.arin.net/rest/asn/AS19527
