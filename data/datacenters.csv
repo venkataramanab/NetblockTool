@@ -1204,7 +1204,6 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 34.0.224.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.225.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.226.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
-34.0.233.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.234.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.235.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.240.0/20,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
@@ -1281,6 +1280,7 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 35.215.128.0/18,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.215.64.0/18,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.216.0.0/14,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
+35.216.0.0/17,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.219.0.0/17,Google Asia Pacific Pte. Ltd. (GAPPL),C07374231,customer,0,Duplicate network,http://whois.arin.net/rest/customer/C07374231
 136.32.0.0/20,Google Fiber Inc.,AS16591,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS16591
 136.32.112.0/20,Google Fiber Inc.,AS16591,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS16591
