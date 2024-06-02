@@ -894,14 +894,17 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 152.65.240.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.241.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.242.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
+152.65.244.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.245.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.246.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.248.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.249.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.250.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.251.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
+152.65.252.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.253.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 152.65.254.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
+152.65.255.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 2001:4860:4820::/48,Google LLC,AS15169,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS15169
 2001:4860:4821::/48,Google LLC,AS15169,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS15169
 2001:4860:4822::/48,Google LLC,AS15169,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS15169
@@ -1279,9 +1282,6 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 34.1.98.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.1.99.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.199.192.0/19,Google LLC,AS16550,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS16550
-35.206.0.0/15,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
-35.206.0.0/24,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
-35.206.10.0/23,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 35.219.0.0/17,Google Asia Pacific Pte. Ltd. (GAPPL),C07374231,customer,0,Duplicate network,http://whois.arin.net/rest/customer/C07374231
 136.32.0.0/20,Google Fiber Inc.,AS16591,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS16591
 136.32.112.0/20,Google Fiber Inc.,AS16591,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS16591
