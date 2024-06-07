@@ -477,7 +477,6 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 67.122.98.0/25,Googlegear 1 of 3,C00396255,customer,35,"Customer, no company name and extension match, alphabetic characters after company name",http://whois.arin.net/rest/customer/C00396255
 12.0.32.16/29,GOOGLE-I42-32-16,NET-12-0-32-16-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-12-0-32-16-1
 12.11.205.48/29,GOOGLE-I81-205-48,NET-12-11-205-48-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-12-11-205-48-1
-12.139.199.48/29,GOOGLE-I52-199-48,NET-12-139-199-48-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-12-139-199-48-1
 12.147.238.0/29,GOOGLE-I43-238-0,NET-12-147-238-0-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-12-147-238-0-1
 12.149.227.112/29,GOOGLE-L65-227-112,NET-12-149-227-112-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-12-149-227-112-1
 12.153.227.0/29,GOOGLE-I15-227-0,NET-12-153-227-0-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-12-153-227-0-1
@@ -564,6 +563,7 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 2604:31c0::/32,GOOGLE-IPV6,NET6-2604-31C0-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET6-2604-31C0-1
 2604:ca00::/32,GOOGLE-WIFI-IPV6,NET6-2604-CA00-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET6-2604-CA00-1
 2605:ef80::/32,GOOGLE-FI,NET6-2605-EF80-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET6-2605-EF80-1
+2606:40::/32,GOOGLE-ONE-V6,NET6-2606-40-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET6-2606-40-1
 34.110.40.0/24,GOOGLE-CLOUD-TO-MCICS-1,NET-34-110-40-0-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-34-110-40-0-1
 34.110.41.0/24,GOOGLE-CLOUD-TO-MCICS-2,NET-34-110-41-0-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-34-110-41-0-1
 34.110.42.0/24,GOOGLE-CLOUD-TO-MCICS-3,NET-34-110-42-0-1,network,30,"Network, no company name and extension match",http://whois.arin.net/rest/net/NET-34-110-42-0-1
