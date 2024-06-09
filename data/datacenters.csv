@@ -687,7 +687,6 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 104.134.169.0/24,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 104.134.170.0/24,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 104.134.172.0/24,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
-104.134.176.0/24,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 104.134.177.0/24,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 104.134.179.0/24,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 104.134.180.0/24,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
@@ -1215,7 +1214,6 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 2a00:79e1:f22::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 2a00:79e1:f23::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 2a00:79e1:f25::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
-2a00:79e1:f29::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 2a00:79e1:f2b::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 2a00:79e1:f2c::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 2a00:79e1:f2e::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
@@ -1237,6 +1235,7 @@ Network,Name,ID,Type,Confidence,Score Rationale,Resource URL
 2a00:79e1:f5a::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 2a00:79e1:f61::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 2a00:79e1:f62::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
+2a00:79e1:f63::/48,Google LLC,AS395973,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS395973
 34.0.0.0/20,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.128.0/19,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
 34.0.160.0/19,Google LLC,AS19527,asn,0,Duplicate network,http://whois.arin.net/rest/asn/AS19527
