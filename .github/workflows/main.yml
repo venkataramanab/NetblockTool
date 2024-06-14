@@ -22,7 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Run
-        run: python3 NetblockTool.py -v Google -o data/datacenters
+        run: python3 NetblockTool.py -gavl companies.txt -o data/datacenters
       - name: Push updates
         run: |
           if [ -n "$(git status --porcelain)" ]; then
