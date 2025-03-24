@@ -1,6 +1,6 @@
 Network,Name,ID,Type,Confidence,Score Rationale,Resource URL,Registered Address,Geolocation Information
-128.177.112.16/29,Facebook Inc,C05042646,customer,91,"Customer, company name is name parameter, address match from ARIN objects",http://whois.arin.net/rest/customer/C05042646,"1601 Willow Rd, Menlo Park, United States, 94025",
-198.24.63.160/29,"Facebook, Inc",C04665554,customer,91,"Customer, company name is name parameter, address match from ARIN objects",http://whois.arin.net/rest/customer/C04665554,"1601 Willow Rd, Menlo Park, United States, 94025",
+128.177.112.16/29,Facebook Inc,C05042646,customer,92,"Customer, company name is name parameter, address match from ARIN objects",http://whois.arin.net/rest/customer/C05042646,"1601 Willow Rd, Menlo Park, United States, 94025",
+198.24.63.160/29,"Facebook, Inc",C04665554,customer,92,"Customer, company name is name parameter, address match from ARIN objects",http://whois.arin.net/rest/customer/C04665554,"1601 Willow Rd, Menlo Park, United States, 94025",
 128.177.22.20/30,Facebook Inc,C07981052,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07981052,"100 Independence Dr - Bldg 61, Menlo Park, United States, 94025",
 128.92.176.108/30,Facebook,C07302410,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07302410,"240 Shire Pkwy, Social Circle, United States, 30025",
 128.92.177.168/30,Facebook,C07309163,customer,85,"Customer, company name is name parameter",http://whois.arin.net/rest/customer/C07309163,"240 Shire Pkwy, Social Circle, United States, 30025",
